@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+<item>
+    <shape android:shape="line">
+        <solid android:color="@color/white"/>
+    </shape>
+<rotate android:toDegrees="90"/>
+</item>
+
+    <item>
+        <shape android:shape="line">
+            <solid android:color="@color/white"/>
+            <size android:height="50dp"/>
+        </shape>
+    </item>
+
+
+</selector>
